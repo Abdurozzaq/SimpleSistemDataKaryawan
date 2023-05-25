@@ -1,0 +1,11 @@
+{
+    "name": "Kontrak",
+    "alias": "kontrak",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kontrak\\Providers\\KontrakServiceProvider"
+    ],
+    "files": []
+}

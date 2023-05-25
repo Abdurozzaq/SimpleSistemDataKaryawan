@@ -1,0 +1,11 @@
+{
+    "name": "Jabatan",
+    "alias": "jabatan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Jabatan\\Providers\\JabatanServiceProvider"
+    ],
+    "files": []
+}
