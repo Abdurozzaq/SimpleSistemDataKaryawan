@@ -7,4 +7,5 @@ Installation
 - composer install
 - create .env from .env.example
 - change db credentials
+- run: php artisan key:generate
 - php artisan serve
